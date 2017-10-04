@@ -1,8 +1,8 @@
 {
-    "name": "philipp/test-custom-path",
+    "name": "kaesetoast/test-custom-path",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Philipp Nowinski",
