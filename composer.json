@@ -1,0 +1,22 @@
+{
+    "name": "philipp/test-custom-path",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Philipp Nowinski",
+            "email": "philipp@nowinski.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "composer/installers": "^1.4"
+    },
+    "extra": {
+        "installer-paths": {
+            "./sgc-core/": [
+				"sgalinski/sgc-core"
+			]
+        }
+    }
+}
