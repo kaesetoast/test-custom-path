@@ -2,6 +2,7 @@
     "name": "philipp/test-custom-path",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Philipp Nowinski",
